@@ -2,7 +2,7 @@
 
 My name's Ryan and I'm a student at Northampton.
 
-I've always enjoyed tinkering with technology and I'm a Computer Science major
+I've always enjoyed tinkering with technology and I'm a Computer Science major.
 
 I love pugs!
 
